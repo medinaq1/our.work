@@ -1,3 +1,8 @@
+.text{
+    width: 123px;
+    margin: 0 auto;
+    font-size: 40px;
+}                                                                                                                                       
 body{
     background-color: #42c51d;
 }
@@ -21,3 +26,4 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+
