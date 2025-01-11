@@ -1,7 +1,24 @@
+
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+
+.text{
+    width: 123px;
+    margin: 0 auto;
+    font-size: 40px;
+}                                                                                                                                       
+body{
+    background-color: #42c51d;
+}
+.son{
+    margin-left: 400px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+
 }
 .header{
     width: 1440px;
@@ -403,6 +420,7 @@ text-decoration-skip-ink: none;
     justify-content: center;
     align-items: center;
 }
+
 .s-div3 img{
     margin-left: 70px;
 }
@@ -467,3 +485,4 @@ text-underline-position: from-font;
 text-decoration-skip-ink: none;
 
 }
+
